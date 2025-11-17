@@ -1,0 +1,9 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_parameters": 66955010,
+  "training_date": "2025-11-16T09:51:55.577062",
+  "device": "cuda",
+  "train_samples": 50000,
+  "test_samples": 10000,
+  "pytorch_version": "2.7.1+cu118"
+}
