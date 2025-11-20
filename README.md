@@ -171,15 +171,15 @@ git push origin feature/nueva-funcionalidad
 #  Equipo  
 | Nombre | Rol | GitHub |
 |--------|------|--------|
-| italo | Dev / IA | *(@italo0072)* |
+| italo | Dev  | *(@italo0072)* |
 
 ---
 
-# 1️⃣1️⃣ Contacto  
-📧 Email: italo.antonio.45@outlook.com  
-🔗 LinkedIn: https://www.linkedin.com/in/italo-antonio-9965b026a
+# 1️ Contacto  
+ Email: italo.antonio.45@outlook.com  
+ LinkedIn: https://www.linkedin.com/in/italo-antonio-9965b026a
 
 ---
 
-# 📄 Licencia  
+#  Licencia  
 MIT License.
