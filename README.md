@@ -37,15 +37,15 @@ CAS es una plataforma modular con IA que:
 ---
 
 # 3️ Características principales  
-✔️ Transcripción automática (Whisper)  
-✔️ Análisis semántico de la conversación  
-✔️ Clasificación multi-clase  
-✔️ Multi-label (emociones múltiples)  
-✔️ Identificación de operador vs cliente  
-✔️ Scoring del desempeño del operador  
-✔️ Integración con DB (SQLite)  
-✔️ Visualización de gráficas y reportes  
-✔️ Estructura modular tipo Cookiecutter
+ Transcripción automática (Whisper)  
+ Análisis semántico de la conversación  
+ Clasificación multi-clase  
+ Multi-label (emociones múltiples)  
+ Identificación de operador vs cliente  
+ Scoring del desempeño del operador  
+ Integración con DB (SQLite)  
+ Visualización de gráficas y reportes  
+ Estructura modular tipo Cookiecutter
 
 ---
 
@@ -90,7 +90,7 @@ CAS/
 
 ---
 
-# 6️⃣ Instalación y Uso  
+# 6️ Instalación y Uso  
 ###  Instalar dependencias
 ```bash
 pip install -r requirements.txt
@@ -113,7 +113,7 @@ print(result)
 
 ---
 
-# 7️⃣ Ejemplos de Resultados  
+# 7️ Ejemplos de Resultados  
 ### Ejemplo de datos extraídos:
 ```json
 {
