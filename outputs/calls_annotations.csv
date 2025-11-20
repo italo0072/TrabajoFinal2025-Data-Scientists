@@ -1,0 +1,5 @@
+call_id,timestamp,transcription,intent,confidence,attended,problem_solved,customer_satisfied,duration_s,keywords
+1,2025-11-17T17:39:20.197254,"Cliente: que era controlar si tienen los que son autífonos, es que hicieron, quisiera hacer un pedido a nombre de 8, donde no he logrado haberse.
+Operador: Cagando un toque número 2, es que hay el principal, el caso número 1, y no sería poder si los envían ahora para ver si después de mi mañana.
+Cliente: Mi formaría si cuanto tardaría o cuanto sería esta venta, eso es como un próprio don.
+",Soporte,20.0,1,0,0,25,"cliente,los,número,sería,cuanto"

@@ -6,7 +6,7 @@
     "padding": true
   },
   "training_config": {
-    "output_dir": "C:\\Users\\lobo1\\Music\\Data_Science\\models\\call_center_model",
+    "output_dir": "C:\\Users\\lobo1\\Desktop\\DAta_sciencia\\models\\call_center_model",
     "num_train_epochs": 10,
     "per_device_train_batch_size": 16,
     "per_device_eval_batch_size": 32,

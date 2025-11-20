@@ -1,6 +1,4 @@
-"""
-Configuracion del Sistema de Analisis de Call Center
-"""
+
 
 import torch
 from pathlib import Path
@@ -17,7 +15,7 @@ for directory in [DATA_DIR, MODELS_DIR, OUTPUTS_DIR, FIGURES_DIR, AUDIO_DIR]:
 
 DATASET_CONFIG = {
     'name': 'amazon_polarity',
-    'train_samples': 50000,
+    'train_samples': 45000,
     'test_samples': 10000,
     'text_column': 'content',
     'label_column': 'label',
